@@ -1,0 +1,41 @@
+body
+{
+    background: #f2c5bb;
+}
+
+.box
+{
+    display: inline-block;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 40px 30px;
+    margin: 200px 0 0 600px;
+}
+
+h1
+{
+    text-align: center;
+}
+
+input
+{
+    display: flex;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px 5px;
+    margin: 10px;
+    background:#fffcf3
+}
+
+button
+{
+    background: black;
+    box-sizing: border-box;
+    color: white;
+    border: 10px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    width: 90%;
+}
